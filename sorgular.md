@@ -1,0 +1,10 @@
+- Fiyat aralığı 0-700000 olan aracların fiyat ve modeller
+- Araba modellerinin en eskiden en yeniye doğru üretim yılları
+- Vites türü otomatik olan modeller
+- Ödeme şeklini kredi kartı olarak belirleyen müşterinin adını ve soyadı
+- Marka adi hummer olan oto modellerinin tüm özellikleri
+- Adı 'eylul', soyadı 'akbas' olan satıcının sattığı aracların markaları
+- Marka adı 'porsche' olan aracların ödeme şekilleri
+- Satıcıları ve araç sattıkları ya da kiraladıkları müşteriler
+- Kiralık olan araçların markaları
+- Satılmayan ya da kiralanmayan araçlar
