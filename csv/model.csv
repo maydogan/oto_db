@@ -1,0 +1,7 @@
+model_id,model_ad,renk,m_hacmi,fiyat,model_yili,yakit_turu,km,arac_durumu,kasa_turu,vites_turu
+1,"panamera turbo s",siyah,4406,380000,2011,benzin,800,hasarsız,sedan,düz
+2,"h2 hummer limo",siyah,4001,600000,2007,benzin,140000,hasarsız,suv,düz
+3,"520d comfort",beyaz,2000,76250,2012,dizel,10000,hasarsız,hatchback/3,otomatik
+4,"f430 spider f1","sarı ",4308,285000,2006,benzin,30000,hasarlı,sedan,otomatik
+5,"c3 1.4 hdi confort",beyaz,1398,32950,2011,benzin,2675,hasarlı,hatchback/3,düz
+6,"mini cooper",lacivert,1600,32250,2005,dizel,5460,hasarsız,suv,otomatik
