@@ -1,1 +1,1 @@
-**Veri Tabanı: 2. El Araba Satışı**
+**Veri Tabanı: 2. El Araç Satışı**
